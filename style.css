@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Tajawal:wght@200&display=swap');
+
+.text-color{
+    background-color: beige;
+    color: blue;
+}
+
+#color{
+    color: purple;
+    font-weight: 800;
+}
+.m{
+    text-align: center;
+}
